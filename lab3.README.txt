@@ -1,1 +1,5 @@
 name, date, description
+
+Derek Klatt, 3/2/15
+
+creates a hat like object and then applies phong lighting to the object.  The shading isn't working quite right and it just darkens the hat like object.

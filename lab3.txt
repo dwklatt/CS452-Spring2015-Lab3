@@ -11,8 +11,10 @@ than gray.
 
 Add a light, and use the modified Phong lighting model to color your object.
 
-The arrow keys will rotate the object as follows: left arrow - rotate counterclockwise about the Y axis; 
-right arrow - rotate clockwise about the Y axis; up arrow - rotate counterclockwise about the X axis;
+The arrow keys will rotate the object as follows: 
+left arrow - rotate counterclockwise about the Y axis; 
+right arrow - rotate clockwise about the Y axis; 
+up arrow - rotate counterclockwise about the X axis;
 down arrow - rotate clockwise about the X axis.
 
 Use a perspective projection matrix.
