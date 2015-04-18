@@ -1,3 +1,4 @@
+//Derek Klatt 3/2 Lab 3
 var gl;
 
 var lightPosition = vec4(1.0, 1.0, 1.0, 0.0 );
